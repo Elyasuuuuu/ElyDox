@@ -1,6 +1,6 @@
 # ElyDox
 
-UE Dox Toolkit
+Simplistic python-encoded dox tool, based on the Little Brother dox tool, optimizing queries. Only works for the following countries: France, Luxembourg, Belgium and Switzerland
 
 
 
